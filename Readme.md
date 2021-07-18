@@ -1,2 +1,2 @@
 Preredefine Requirements
-Kickstart July 12 2021
+Kickstart July 20 2021
