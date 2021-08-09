@@ -33,8 +33,8 @@
       echo "<p class='text-danger'> Connection failed! " . $e->getMessage() . "</p> 
       <h1>Please try again.</h1> 
       <p>If the problem persists, email: 
-      <a href='mailto:christopher@christopher-murray.com'>
-      christopher@christopher-murray.com</p></a>";
+      <a href='mailto:njid18753@gmail.com'>
+      njid18753@gmail.com</p></a>";
     }
 
       //close db connection
