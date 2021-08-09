@@ -1,0 +1,34 @@
+/* CSS to Override Bootstrap.CSS elements */
+nav {
+    font-size: x-large;
+    display: flex;
+    flex-wrap: wrap;
+}
+a {
+    color: #8f0044;
+    text-decoration: none;
+}
+a:hover  {
+    color: #d40c6d;
+    text-decoration: underline;
+}
+
+footer   {
+    color: #ffffff;
+}
+footer a  {
+    color: #ffffff;
+}
+footer a:hover  {
+    color: #ffffff;
+}
+
+.space {
+    height: 50px;
+}
+
+.right 
+{
+    text-align: right;
+    align-items: flex-end;
+}
