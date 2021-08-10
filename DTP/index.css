@@ -11,6 +11,8 @@ a {
 a:hover  {
     color: #d40c6d;
     text-decoration: underline;
+    text-align: center;
+    text-transform: lowercase;
 }
 
 footer   {
