@@ -1,3 +1,4 @@
+<!--Get the sales from each agent-->
 <?php include 'header.php'; ?>
 
 <img src="img/man-laptop.jpg" class="rounded mx-auto d-block">
