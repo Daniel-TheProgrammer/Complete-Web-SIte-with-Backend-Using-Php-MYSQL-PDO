@@ -39,7 +39,6 @@
 
       //close db connection
     $conn = null;
-    $conn = is_null()
 
 
 ?>
