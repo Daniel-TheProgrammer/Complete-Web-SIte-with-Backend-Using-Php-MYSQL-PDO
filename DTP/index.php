@@ -31,7 +31,3 @@ The Acorn 130 Stairlift has also earned the prestigious Ease- of-Use Commendatio
 <?php
 include 'footer.php';
 ?>
-
-<?php
-include 'sales.php'
-Another feature pioneered by N
