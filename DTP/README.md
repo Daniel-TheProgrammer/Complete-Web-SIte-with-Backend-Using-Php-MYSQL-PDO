@@ -1,21 +1,3 @@
-# Acorn Stairlifts 
-
-As part of an interview process, I was tasked with designing a small web application that demonstrated some relevant skills for Acorn Stairlifts. The parameters for the project allowed for a lot of freedom, and I was encouraged to be creative. I was given some sample marketing sites to consider too. 
-
-#### Objectives
-
-* Demonstrate backend code skills using PHP / MySQL
-
-* Create a one-page micro-website
-
-* OK to use branding, copy, etc
-
-* Be original
-
-* Show thought processs
-
-  
-
 ## Initial thoughts
 
 With only 48 hours to complete the project, I had to be realistic about what could be accomplished. It was essential to connect and query a database and elegantly display information about Acorn Stairlifts.
@@ -53,10 +35,7 @@ I created a basic layout with top navigation and a main content area. I initally
 
 Home would be my `index.php` and contain some basic product information. The remaining three pages would need to connect with the MySQL database. I created a db called acorn and three tables to correspond with the front end.
 
-### Database population
-<img src="acorn_screenshots/phpmyadmin.png" alt="phpmyadmin" />
 
-After creating the tables and the database, I filled them with content I found on various Acorn marketing sites. I copied source code to perserve HTML formatting so that blog posts and other content were displayed accurately.
 
 ### CSS: Style Elements
 
