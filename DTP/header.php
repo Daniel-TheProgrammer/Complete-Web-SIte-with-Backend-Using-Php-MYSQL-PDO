@@ -33,7 +33,7 @@
         </ul>
         <!-- Call now -->
         <div class="right">Call now!
-            <a href="tel:+1-866-873-6574">1-866-873-6574</a>
+            <a href="tel:+237671062539">+237671062539</a>
         </div>
 
     </nav>
