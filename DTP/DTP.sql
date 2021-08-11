@@ -29,6 +29,7 @@ USE `DTP`;
 -- Table structure for table `leads`
 --
 
+
 DROP TABLE IF EXISTS `leads`;
 CREATE TABLE `leads` (
   `id` int(11) NOT NULL,
