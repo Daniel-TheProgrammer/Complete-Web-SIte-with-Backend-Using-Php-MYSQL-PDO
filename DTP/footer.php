@@ -5,7 +5,7 @@
 <!-- Copyright / Link -->
 <footer class="footer fixed-bottom" style="background-color:#8f0044;">
   <div class="footer-copyright text-center" >© 2021 Copyright:
-    <a href="https://wwww.acornstairlifts.com/"> AcornStairlifts.com</a>
+    <a href="">eDTP</a>
   </div>
 
 </footer>
