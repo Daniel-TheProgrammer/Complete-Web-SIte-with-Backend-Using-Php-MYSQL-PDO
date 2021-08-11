@@ -1,5 +1,4 @@
-
-  <?php
+<?php
   include 'secure.php';
 
   // Connect to DB

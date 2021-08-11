@@ -35,7 +35,6 @@
         <div class="right">Call now!
             <a href="tel:+237671062539">+237671062539</a>
         </div>
-
     </nav>
 <!-- set container width for main content area -->
     <div class="container">
