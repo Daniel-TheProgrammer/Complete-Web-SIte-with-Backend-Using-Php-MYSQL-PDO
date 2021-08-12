@@ -6,6 +6,7 @@
   <img width="500px" class="rounded mx-auto d-block" src="img/couple.jpg"><br><br>
   <h1>Testimonials</h1>
 
+  
   <?php
   
   try {
